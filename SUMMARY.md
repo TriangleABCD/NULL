@@ -9,3 +9,5 @@
 * [编程拾遗](bian-cheng-shi-yi.md)
 * [排版和展示](pai-ban-he-zhan-shi.md)
 * [人生苦短，我用 Python](ren-sheng-ku-duan-wo-yong-python.md)
+* [杂项](za-xiang/README.md)
+  * [安装 Linux](za-xiang/an-zhuang-linux.md)
